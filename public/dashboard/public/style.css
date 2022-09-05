@@ -1,0 +1,28 @@
+.titre{
+    background-color: #262b59;
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 15px;
+}
+.titreTableau{
+    color: #399ab3;
+    padding: 25px;
+}
+.button{
+    background-color: #262b59;
+    color: white;
+    border-radius: 15px;
+    border: 0px;
+}
+.reste{
+    padding: 50px;
+    padding-bottom: 150px;
+    border-radius: 15px;
+}
+.presence{
+    border: 5px solid #399ab3;
+    border-radius: 15px;
+    padding: 15px;
+}

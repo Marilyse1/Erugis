@@ -1,0 +1,26 @@
+.titre{
+    background-color: #262b59;
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 15px;
+}
+.presence{
+    margin-top: 50px;
+    padding: 25px;
+}
+.main{
+    margin-top: 15px;
+}
+.alert{
+    margin-top: 15px;
+}
+.background{
+    background-color: #262b59;
+    color: white;
+}
+
+
+
+
